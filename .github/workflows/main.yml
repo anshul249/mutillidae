@@ -16,4 +16,4 @@ jobs:
     - name: trufflehog-actions-scan
       uses: edplato/trufflehog-actions-scan@master
       #with:
-        #scanArguments: "--regex --entropy=False  --rules /regex.json" 
+        #scanArguments: "--entropy=False  --rules /regex.json" 
