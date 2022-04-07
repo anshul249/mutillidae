@@ -6,3 +6,4 @@ Disallow: javascript/
 Disallow: owasp-esapi-php/
 Disallow: documentation/
 Disallow: includes/
+Disallow: includes1/
